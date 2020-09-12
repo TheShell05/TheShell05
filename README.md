@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML/DL/Data Science Related Projects
 - 🤔 I’m looking for help with API Development and Deployement 
 - 💬 Ask me about ML and DL | Python
-=- ⚡ Fun fact: I am Interested in Cosmos and Interstellar Stuff
+- ⚡ Fun fact: I am Interested in Cosmos and Interstellar Stuff
